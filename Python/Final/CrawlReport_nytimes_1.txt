@@ -1,0 +1,26 @@
+Fetch statistics:
+# fetches attempted: 20003
+# fetches succeeded: 18193
+# fetches failed or aborted: 1810
+
+Outgoing URLs: statistics about URLs extracted from visited HTML pages
+Total URLs extracted: 3168382
+# unique URLs extracted: 269568
+# unique URLs within your news website: 79419
+# unique URLs outside the news website: 190149
+
+Status codes:
+200: 18192
+403: 1720
+400: 69
+202: 1
+404: 1
+500: 20
+
+File sizes:
+< 1KB: 1737
+1KB - 1MB: 15740
+> 1MB: 2003
+
+Content Type:
+text/html;charset=UTF-8, text/html, text/html; charset=utf-8, text/html; charset=iso-8859-15, text/html; charset=utf-8; charset=UTF-8, text/html; charset=windows-1252, text/html;charset=shift-jis, text/html; charset=utf8, text/html; charset=ISO-8859-1, image/jpeg, text/html;charset=ISO-8859-1, text/html; charset="UTF-8", text/html; charset=UTF-8, application/pdf, text/html;charset=utf-8, text/html; charset="utf-8"

@@ -1,0 +1,54 @@
+Name: Anne Sai Venkata Naga Saketh
+USC ID: 3725520208
+News site crawled: nytimes.com
+Number of threads: 20
+Depth of Crawling: 16
+
+Fetch Statistics
+*******************************
+fetches attempted: 20003
+fetches succeeded: 18193
+fetches failed or aborted: 1810
+
+Outgoing URLs:
+*******************************
+Total URLs extracted: 3140357
+# unique URLs extracted: 269568
+# unique URLs within news website: 79419
+# unique URLs outside news website: 190149
+
+Status Codes:
+*******************************
+200 OK: 18192
+202 Accepted: 1
+400 Bad Request: 69
+403 Forbidden: 1720
+404 Not Found: 1
+500 Internal Server Error: 20
+
+File Sizes:
+*******************************
+< 1KB: 1737
+1KB ~ <10KB: 197
+10KB ~ <100KB: 3484
+100KB ~ <1MB: 12059
+>= 1MB: 2003
+
+Content Types:
+*******************************
+application/pdf: 51
+image/jpeg: 3
+text/html: 890
+text/html; charset="UTF-8": 8
+text/html; charset="utf-8": 327
+text/html; charset=ISO-8859-1: 2
+text/html; charset=UTF-8: 1524
+text/html; charset=iso-8859-15: 1
+text/html; charset=utf-8: 14793
+text/html; charset=utf-8; charset=UTF-8: 1
+text/html; charset=utf8: 1
+text/html; charset=windows-1252: 1
+text/html;charset=ISO-8859-1: 9
+text/html;charset=UTF-8: 116
+text/html;charset=shift-jis: 1
+text/html;charset=utf-8: 1752
