@@ -1,7 +1,7 @@
 Name: Anne Sai Venkata Naga Saketh
 USC ID: 3725520208
 News site crawled: nytimes.com
-Number of threads: 20
+Number of threads: 16
 Depth of Crawling: 16
 
 Fetch Statistics
@@ -13,9 +13,9 @@ fetches failed or aborted: 1810
 Outgoing URLs:
 *******************************
 Total URLs extracted: 3140357
-# unique URLs extracted: 269568
-# unique URLs within news website: 79419
-# unique URLs outside news website: 190149
+# unique URLs extracted: 1475967
+# unique URLs within news website: 190149
+# unique URLs outside news website: 1285818
 
 Status Codes:
 *******************************

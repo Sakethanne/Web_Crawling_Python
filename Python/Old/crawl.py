@@ -160,7 +160,7 @@ def main(url, news_site_name):
 
     # Create and start 50 threads
     threads = []
-    for _ in range(50):
+    for _ in range(16):
         t = threading.Thread(target=crawl, args=(q, domain, visited, all_urls, lock))
         t.start()
         threads.append(t)
